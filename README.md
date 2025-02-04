@@ -26,7 +26,7 @@ We mostly communicated through telegram and decided on how we do things there.
 
 **The group was meeting weekly**
 
-The weekly meetings and reports can be seen in their respective folder.
+The weekly meetings and reports can be seen in their respective file.
 
 # TODOs
 Project TODOs were tracked with GitLab issues.
